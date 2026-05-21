@@ -10,3 +10,8 @@ This repository contains Linux automation and shell scripting examples.
 - Backup automation
 
 Created and maintained by RV.
+## Available Scripts
+
+1. cpu-monitor.sh - Shows CPU usage
+2. memory-monitor.sh - Displays memory usage
+3. disk-usage.sh - Shows disk usage report
